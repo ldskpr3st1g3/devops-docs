@@ -7,3 +7,4 @@
 3. После слияния в `main` MkDocs собирает статический сайт.
 4. GitHub Pages публикует артефакт сборки.
 Адрес будущего сайта: `https://ldskpr3st1g3.github.io/devops-docs/`.
+
