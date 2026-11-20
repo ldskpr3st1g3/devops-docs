@@ -4,9 +4,9 @@ site_author: "Трифонов Григорий Алексеевич"
 repo_name: ldskpr3st1g3/devops-docs
 repo_url: https://github.com/ldskpr3st1g3/devops-docs
 theme:
-name: mkdocs
-locale: ru
+  name: mkdocs
+  locale: ru
 nav:
-- Главная: index.md
-- Эксплуатация: runbook.md
-- Журнал инцидентов: incidents.md
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
