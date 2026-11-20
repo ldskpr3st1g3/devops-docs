@@ -8,4 +8,3 @@
 4. GitHub Pages публикует артефакт сборки.
 Адрес будущего сайта: `https://ldskpr3st1g3.github.io/devops-docs/`.
 
-Проверка битой ссылки: [несуществующая страница](missing-page.md).
